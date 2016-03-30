@@ -2,11 +2,6 @@
  * Header *
  **********/
 
-/*
-All credit goes to the original creator of 'Cookie Monster'.
-Only modification is playing the GC sound for the end of Elder Pledge. 
-*/
-
 CM = {};
 
 CM.Backup = {};
